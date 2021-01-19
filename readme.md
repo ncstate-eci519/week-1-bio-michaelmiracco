@@ -1,4 +1,4 @@
-# [Michael Miracco]
+# Michael Miracco
 
 ## About Me
  Hello! My name is **Michael Miracco** and I am a Senior here at NC State, studying Education with a concentation in Learning Design and Technology. I call New York my home, but have enjoyed my time in Raleigh for the past seven years. I am excited to graduate and begin a career in _instructional design_ as this year continues. My hobies and interests include **skateboarding**, **playing music**, and **spending time with my loving girlfriend**. I look forward to continuing to learn throughout this course and become more fluent in understanding code as this class follows. Please feel free to connect with me on [LinkedIn](http://www.linkedin.com/en/mcmiracco). 
